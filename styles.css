@@ -28,8 +28,7 @@ body {
 .container {
   max-width: 800px;
   margin: 0 auto;
-  background: url("assets/img/couple.jpeg") no-repeat center center;
-  background-size: cover;
+  background: var(--white);
   box-shadow: 0 10px 40px rgba(255, 105, 180, 0.15);
   position: relative;
 }
