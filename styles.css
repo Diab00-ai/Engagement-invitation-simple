@@ -116,6 +116,10 @@ body {
 /* Hero Section */
 .hero {
   background: linear-gradient(135deg, #fff5f7 0%, #ffe8f0 100%);
+  background: url("assets/img/couple.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 80% auto;
   padding: 80px 40px;
   text-align: center;
   border-bottom: 3px solid var(--primary-color);
@@ -962,14 +966,6 @@ body {
 
   .heart-center {
     font-size: 1.2rem;
-  }
-  .hero-box {
-  background: url("assets/img/couple.jpeg") no-repeat center center;
-  background-size: cover;
-  max-width : 700px;
-  margin: 0 auto;
-  padding: 40px;
-  border-radius: 20px;
   }
   
 }
