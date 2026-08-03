@@ -177,7 +177,8 @@ body {
   font-size: 24px;
   font-weight: 300;
   letter-spacing: 3px;
-  color: var(--text-light);
+  color: #FFFFFF;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.8);
   margin-bottom: 20px;
   text-transform: uppercase;
 }
