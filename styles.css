@@ -117,7 +117,9 @@ body {
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(135deg, #fff5f7 0%, #ffe8f0 100%);
+  background: url("assets/img/couple.jpeg") no-repeat center center;
+  background-size: cover;
+  background-position: center;
   padding: 80px 40px;
   text-align: center;
   border-bottom: 3px solid var(--primary-color);
