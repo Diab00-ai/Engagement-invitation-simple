@@ -966,7 +966,10 @@ body {
   .hero-box {
   background: url("assets/img/couple.jpeg") no-repeat center center;
   background-size: cover;
-  background-radius: 20px;
-  padding: 30px;
+  max-width : 700px;
+  margin: 0 auto;
+  padding: 40px;
+  border-radius: 20px;
+  }
   
 }
