@@ -222,7 +222,8 @@ body {
 .couple-names {
   font-size: 72px;
   font-weight: 700;
-  color: var(--text-dark);
+  color: #FFD700;
+  text-shadow: 2px 2px 10px rgba(0,0,0,0.85);
   margin: 20px 0;
   letter-spacing: 2px;
 }
