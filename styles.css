@@ -18,7 +18,8 @@
 
 body {
   font-family: "Playfair Display", "Georgia", serif;
-  background: linear-gradient(135deg, #fff5f7 0%, #ffe8f0 100%);
+  background: url("assets/img/couple.jpeg") no-repeat center center;
+  background-size: cover;
   color: var(--text-dark);
   line-height: 1.6;
   min-height: 100vh;
